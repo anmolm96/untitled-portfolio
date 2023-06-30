@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-app",
+  "version": "1.0.0",
+  "description": "A modern web application for Untitled Ventures built with Next.js and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["nextjs", "typescript", "portfolio", "untitled ventures"],
+  "author": "Untitled Ventures",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "@types/node": "^14.14.10",
+    "@types/react": "^17.0.0",
+    "typescript": "^4.1.3",
+    "shadcn": "^1.0.0"
+  }
+}
